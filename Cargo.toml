@@ -1,0 +1,8 @@
+[package]
+name = "stubthat-core"
+version = "0.1.0"
+edition = "2021"
+description = "Minimal StubTHAT enforcement core. Candidate for the Language Pie Rust sector. Maturity: stubbed_out."
+license = "Apache-2.0"
+
+[dependencies]
